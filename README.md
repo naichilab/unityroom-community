@@ -6,13 +6,13 @@ unityroom利用者向けのサポート情報です。
 
 下記ページからチャット形式で質問いただけます。気軽にどうぞ。
 
-https://gitter.im/unityroom
+https://gitter.im/unityroom/Lobby
 
 ## unityroomの不具合、要望
 
 質問と同様に、下記ページからチャット形式でご連絡ください。
 
-https://gitter.im/unityroom
+https://gitter.im/unityroom/Lobby
 
 
 # その他
